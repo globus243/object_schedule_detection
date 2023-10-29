@@ -1,0 +1,7 @@
+opencv-python~=4.8.1.78
+numpy~=1.26.0
+flask~=3.0.0
+waitress~=2.1.2
+ultralytics~=8.0.190
+plotly~=5.17.0
+mysql-connector-python~=8.1.0
